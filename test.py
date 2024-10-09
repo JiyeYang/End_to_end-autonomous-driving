@@ -28,5 +28,5 @@ def predict(image_path):
 
 
 # 测试单张图片
-test_image = 'E:/Udacity 自驾车数据集/udacity_Ch3_001/center_new/1479421384128977642.jpg'
+test_image = 'you image path'
 predict(test_image)
